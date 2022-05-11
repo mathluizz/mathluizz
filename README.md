@@ -3,9 +3,9 @@
 - 🖥️ Formado em Engenharia da Computação.
 - 📚 Interesses: Java e Spring Framework.
 
-<div align="center">
+<div>
   <a href="https://github.com/mathluizz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mathluizz&show_icons=tru&theme=dark&include_all_commits=true&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mathluizz&show_icons=tru&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathluizz&layout=compact&langs_count=7&theme=dark" />
 </div>
 
