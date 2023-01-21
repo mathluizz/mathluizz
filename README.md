@@ -1,21 +1,19 @@
 ### Olá! Eu sou o Matheus
 
 - 🖥️ Formado em Engenharia da Computação.
-- 📚 Interesses: Java e Spring Framework.
+- 📚 Interesses: Android nativo
 
-<div>
-  <a href="https://github.com/mathluizz">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mathluizz&show_icons=tru&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="115em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathluizz&layout=compact&langs_count=7&theme=dark" />
-</div>
+
 
   <div style="display: inline_block"><br>
+  
+   <img align="center" alt="Math-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg"  />
+   <img align="center" alt="Math-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" />
    <img align="center" alt="Math-java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"" />
-   <img align="center" alt="Math-spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
    <img align="center" alt="Math-spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
    <img align="center" alt="Math-spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
    <img align="center" alt="Math-spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-          
+    
           
           
   </div>
