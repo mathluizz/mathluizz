@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus
 
 - 🖥️ Formado em Engenharia da Computação.
-- 📚 Interesses: Android nativo
+
 
 
 
